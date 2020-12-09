@@ -49,7 +49,7 @@ TABLE OF CONTENTS
 [7.FAQ 6](#_Toc56172186)
 
 
-## INTRODUCTION
+### INTRODUCTION
 
 **knotAnnotSV** is a program designed to create a customizable html file from an [AnnotSV](https://lbgi.fr/AnnotSV)output file. This will allow to easily filter and explore each SV. Annotations can be directly displayed in the web browser or by mouse hovering (tooltip).
 
